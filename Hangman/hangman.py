@@ -18,7 +18,7 @@ for i in range(len(choosen)):
 
 lives = 6
 end_of_game = False
-print(choosen)
+
 while  not end_of_game:
     guess = input("Guess a letter: ").lower()
 
